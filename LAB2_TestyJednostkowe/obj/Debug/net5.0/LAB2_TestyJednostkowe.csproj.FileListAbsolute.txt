@@ -1,0 +1,16 @@
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\bin\Debug\net5.0\LAB2_TestyJednostkowe.exe
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\bin\Debug\net5.0\LAB2_TestyJednostkowe.deps.json
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\bin\Debug\net5.0\LAB2_TestyJednostkowe.runtimeconfig.json
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\bin\Debug\net5.0\LAB2_TestyJednostkowe.runtimeconfig.dev.json
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\bin\Debug\net5.0\LAB2_TestyJednostkowe.dll
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\bin\Debug\net5.0\LAB2_TestyJednostkowe.pdb
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\LAB2_TestyJednostkowe.csproj.AssemblyReference.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\LAB2_TestyJednostkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\LAB2_TestyJednostkowe.AssemblyInfoInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\LAB2_TestyJednostkowe.AssemblyInfo.cs
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\LAB2_TestyJednostkowe.csproj.CoreCompileInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\LAB2_TestyJednostkowe.dll
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\ref\LAB2_TestyJednostkowe.dll
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\LAB2_TestyJednostkowe.pdb
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\LAB2_TestyJednostkowe.genruntimeconfig.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\LAB2_TestyJednostkowe\obj\Debug\net5.0\refint\LAB2_TestyJednostkowe.dll
