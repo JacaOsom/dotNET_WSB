@@ -1,0 +1,7 @@
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\WebServiceWCF_LAB3\bin\WebServiceWCF_LAB3.dll.config
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\WebServiceWCF_LAB3\bin\WebServiceWCF_LAB3.dll
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\WebServiceWCF_LAB3\bin\WebServiceWCF_LAB3.pdb
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\WebServiceWCF_LAB3\obj\Debug\WebServiceWCF_LAB3.csproj.AssemblyReference.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\WebServiceWCF_LAB3\obj\Debug\WebServiceWCF_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\WebServiceWCF_LAB3\obj\Debug\WebServiceWCF_LAB3.dll
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\WebServiceWCF_LAB3\obj\Debug\WebServiceWCF_LAB3.pdb
