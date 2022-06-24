@@ -1,0 +1,16 @@
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\bin\Debug\DesktopWCFApp.exe.config
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\bin\Debug\DesktopWCFApp.exe
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\bin\Debug\DesktopWCFApp.pdb
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp.csproj.AssemblyReference.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\MainWindow.g.cs
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\App.g.cs
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp_MarkupCompile.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp_MarkupCompile.lref
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\MainWindow.baml
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp.g.resources
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp.Properties.Resources.resources
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp.csproj.GenerateResource.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp.csproj.CoreCompileInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp.exe
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\DesktopWCFApp\obj\Debug\DesktopWCFApp.pdb
