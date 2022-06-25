@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.wsb.pl/pn/lab4">
+<imie>Maciek</imie>
+<nazwisko>Nowak</nazwisko>
+<pesel>82050921478</pesel>
+<adresy>
+<adres>
+<ulica>Testowa</ulica>
+<nrDomu>1</nrDomu>
+<nrLokalu>2</nrLokalu>
+<miejscowosc>Gdańsk</miejscowosc>
+</adres>
+</adresy>
+</osoba>

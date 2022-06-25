@@ -1,0 +1,15 @@
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\bin\Debug\net6.0\SerializerApp.exe
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\bin\Debug\net6.0\SerializerApp.deps.json
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\bin\Debug\net6.0\SerializerApp.runtimeconfig.json
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\bin\Debug\net6.0\SerializerApp.dll
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\bin\Debug\net6.0\SerializerApp.pdb
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\SerializerApp.csproj.AssemblyReference.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\SerializerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\SerializerApp.AssemblyInfoInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\SerializerApp.AssemblyInfo.cs
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\SerializerApp.csproj.CoreCompileInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\SerializerApp.dll
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\refint\SerializerApp.dll
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\SerializerApp.pdb
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\SerializerApp.genruntimeconfig.cache
+C:\Users\jacek\Desktop\WorkSpace\CSHARP\WSB_4\dotNET\SerializerApp\obj\Debug\net6.0\ref\SerializerApp.dll
